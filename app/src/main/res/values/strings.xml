@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BudjetKeeper ver 2</string>
+    <string name="new_note_label">Новая заметка</string>
+    <string name="button_add_label">Добавить</string>
+    <string name="note_title_text">Название</string>
+    <string name="note_price_text">Сумма</string>
+    <string name="button_apply">Принять</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="new_bill_label">Новый счёт</string>
+    <string name="start_amount_text">Стартовая сумма</string>
+    <string name="menu_main_page_text">Главная</string>
+    <string name="menu_bills_text">Счета</string>
+    <string name="floating_button_content_description">Добавление новой записи</string>
+    <string name="unfilled_fields_warning">Все поля должны быть заполнены</string>
+    <string name="bank_name_text">Название банка</string>
+    <string name="repeating_bank_name_warning">Такое название счёта уже существует</string>
+    <string name="zero_db_bills_or_categories_warning">Добавьте хотя бы одну категорию и(или) счёт</string>
+    <string name="new_category_text">Новая категория</string>
+    <string name="edit_note_label">Редактирование заметки</string>
+    <string name="title_label_text">Название:</string>
+    <string name="price_label_text">Сумма:</string>
+    <string name="category_label_text">Категория:</string>
+    <string name="bill_label_text">Счёт:</string>
+    <string name="save_changes_button">Сохранить изменения</string>
+    <string name="get_back_button">Вернуться</string>
+    <string name="edit_bill_label">Редактирование счёта</string>
+    <string name="bank_name_label_text">Название банка:</string>
+    <string name="password_label_text">Пароль:</string>
+    <string name="login_label_text">Логин:</string>
+    <string name="registration_or_login_label">Регистрация/Вход</string>
+    <string name="log_in_button">Вход</string>
+    <string name="sing_up_button">Регистрация</string>
+    <string name="continue_without_registration">Продолжить без регистрации</string>
+    <string name="last_bill_warning">Создайте сначала новый счёт, а после удалите этот, чтобы не потерять всю информацию.</string>
+    <string name="settings_button">Настройки</string>
+    <string name="set_dollars_text">Установить доллары</string>
+    <string name="set_rubles_text">Установить рубли</string>
+    <string name="settings_label">Настройки</string>
+    <string name="current_currency_text">Текущая валюта:</string>
+    <string name="enternet_connection_error_warning">Проблемы с интернет-соединение. Невозможно рассчитать курс.</string>
+    <string name="show_time_label">Отобразить за:</string>
+    <string name="not_enought_money_warning">На выбранном счете недостаточно средств</string>
+    <string name="no_notes_warning_pie_chart">Нет записей</string>
+    <string-array name="category_types">
+        <item>Расход</item>
+        <item>Прибыль</item>
+    </string-array>
+    <string-array name="time_zones">
+        <item>всё время</item>
+        <item>неделю</item>
+        <item>месяц</item>
+        <item>год</item>
+    </string-array>
+</resources>
